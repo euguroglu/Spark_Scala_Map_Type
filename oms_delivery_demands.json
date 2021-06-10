@@ -1,0 +1,1 @@
+{"id": "string","code": "string","insertedDate": "2020-09-18T11:56:28.783Z","deliveryOrderLines": [{"orderLineId": "string","orderNumber": "string","order_date": "2021-04-22"}],"demands": [{"type": "Resend","date": "2021-06-03T21:14:43.533Z","parameters": {"ActionType": "Return"}}],"receivedAt": "2021-06-07T14:47:39Z"}
